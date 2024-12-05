@@ -15,7 +15,7 @@ I study the **statistical foundations of frontier models**, in particular attent
 
 Recently, I've applied this approach to improving the representation capacity and robustness of the self-attention mechanism, where I used a nonparametric kernel regression framework to propose using [hyper-ellipsoidal attention regions](https://arxiv.org/pdf/2406.13770) (NeurIPS, 2024). I have also examined MoE through the lens of feature-weighted clustering optimization to propose a novel router that improves expert specialization, and promotes faster convergence and better robustness.
 
-For future directions, I'm hoping to expand my research experience, that has predominantly centered on model-driven pretraining approaches, towards including in-context learning, finetuning, and model merging. I also have a nascent interest in alignment and mechanistic interpretability.
+For future directions, I'm hoping to expand my research experience, that has predominantly centered on model-driven pretraining approaches, towards including in-context learning, finetuning, and model merging. No matter the direction, however, I hope to conduct research that leverages rigorous, statistical frameworks. I also have a nascent interest in alignment and mechanistic interpretability.
 
 Prior to working with Professor Nguyen, I studied statistics at Columbia, where I was a funded research scholar working with Professor [Talia Gillis](https://www.law.columbia.edu/faculty/talia-gillis) on fair machine learning, and economics at Cambridge University and the London School of Econonmics.
 
