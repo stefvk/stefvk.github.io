@@ -21,17 +21,17 @@ Prior to working with Professor Nguyen, I studied statistics at Columbia, where 
 
 # Publications
 
-**Elliptical Attention** \
+[Elliptical Attention](https://arxiv.org/pdf/2406.13770) \
 **Stefan Nielsen**, Laziz Abdullaev, Rachel Teo, Tan Minh Nguyen \
 *Advances in Neural Information Processing Systems (NeurIPS), 2024*
 
-**An Attention-based Framework for Fair Contrastive Learning** \
+[An Attention-based Framework for Fair Contrastive Learning](https://arxiv.org/abs/2411.14765) \
 **Stefan Nielsen**, Tan Minh Nguyen \
 *preprint, 2023*
 
 # Service
 **Reviewer, ICLR 2025** \
-I was glad to serve as a reviewer for the main conference
+I was glad to serve as a reviewer for the main conference.
 
 # Other
 📓 I'm glad to have recieved the Huayu Enrichment Scholarship, which is a fully funded scholarship with stipend to study mandarin chinese at National Taiwan University for three months.
