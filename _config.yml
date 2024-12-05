@@ -23,9 +23,8 @@ author:
   # Biographic information
   avatar           : "stefan_scholar.jpeg"
   name             : "Stefan Nielsen"
-  pronouns         : # example: "she/her"  
-  bio              : " *(also: Văn Khánh)* \
-  AI researcher, FPT AI"
+  pronouns         :  "(Also: Văn Khánh)"  
+  bio              : "AI researcher, FPT AI"
   location         : "Ho Chi Minh City, Vietnam"
   #employer         : "Red Brick University"
   uri              : # URL
