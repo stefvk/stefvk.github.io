@@ -31,7 +31,7 @@ Prior to working with Professor Nguyen, I studied statistics at Columbia, where 
 
 # Service
 **Reviewer, ICLR 2025** \
-I was glad to serve as a reviewer for the main conference.
+I served as a reviewer for the main conference.
 
 # Other
 📓 I'm glad to have recieved the Huayu Enrichment Scholarship, which is a fully funded scholarship with stipend to study mandarin chinese at National Taiwan University for three months.
