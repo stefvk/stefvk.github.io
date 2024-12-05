@@ -19,16 +19,16 @@ Prior to working with Professor Nguyen, I studied statistics at Columbia, where 
 
 # Publications
 
-**Elliptical Attention**
-**Stefan Nielsen**, Laziz Abdullaev, Rachel Teo, Tan Minh Nguyen
+**Elliptical Attention** \
+**Stefan Nielsen**, Laziz Abdullaev, Rachel Teo, Tan Minh Nguyen \
 *Advances in Neural Information Processing Systems (NeurIPS), 2024*
 
-**An Attention-based Framework for Fair Contrastive Learning**
-**Stefan Nielsen**, Tan Minh Nguyen
+**An Attention-based Framework for Fair Contrastive Learning** \
+**Stefan Nielsen**, Tan Minh Nguyen \
 *preprint, 2023*
 
 # Service
-**Reviewer, ICLR 2025**
+**Reviewer, ICLR 2025** \
 I was glad to serve as a reviewer for the main conference
 
 # Other
