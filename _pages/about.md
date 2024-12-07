@@ -17,7 +17,7 @@ Recently, I've applied this approach to improve the representation capacity and 
 
 For future directions, I'm hoping to expand my research experience, that has predominantly centered on model-driven pretraining approaches, towards also including in-context learning, finetuning, and model merging. I also have a growing interest in alignment and mechanistic interpretability. Regardless of the direction, however, I hope to conduct research that leverages rigorous, statistical frameworks.
 
-Prior to working with Professor Nguyen, I studied statistics at Columbia, where I was a funded research scholar working with Professor [Talia Gillis](https://www.law.columbia.edu/faculty/talia-gillis) on fair machine learning, and economics at Cambridge University and the London School of Econonmics.
+Prior to working with Professor Nguyen, I studied statistics at Columbia, where I was a funded research scholar working with Professor [Talia Gillis](https://www.law.columbia.edu/faculty/talia-gillis) on fair machine learning, and economics at Cambridge University and the London School of Economics.
 
 # Publications
 
