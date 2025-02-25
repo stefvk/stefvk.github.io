@@ -19,7 +19,7 @@ Going forward, I'm hoping to expand on my research experience in a few different
 
 - How do behaviors in LLMs, in particular reasoning and memorization, emerge from architectural choices?
 - Are there ways to leverage statistical regularities in the data or model internals to design better mechanisms, in particular attention and MoE routing?
-- How do these statistical frameworks underpinning core mechanisms change when moving into multimodal settings, and what opportunities are there to use them for better multimodal models?
+- How do these statistical frameworks underpinning core mechanisms change when moving into multi-modal settings, and what opportunities are there to use them for better multi-modal models?
 - What are the statistical properties in pre and post-training that account for misalignment in LLMs?
 - How do harmful concepts and undesirable behavior (such as dishonesty and power-seeking) show up in model internals?
 - How can we leverage existing capabilities in LLMs to self-improve and self-align?
