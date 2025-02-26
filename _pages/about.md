@@ -15,7 +15,7 @@ I work on the statistical foundations underpinning frontier mechanisms, such as 
 
 Recently, I've applied this approach to improve the representation capacity and robustness of the self-attention mechanism, where I used a nonparametric kernel regression framework to propose using hyper-ellipsoidal attention regions [(NeurIPS, 2024)](https://arxiv.org/pdf/2406.13770). I have also examined mixture-of-experts (MoE) Transformers through the lens of feature-weighted clustering optimization to propose a novel router that improves expert specialization, and promotes faster convergence and better robustness [(ICLR, 2025)](https://openreview.net/pdf?id=Pu3c0209cx). Going further back, I've also worked on [an attention-based framework](https://arxiv.org/abs/2411.14765) for fair representation learning that goes beyond binary categorizations of fairness.
 
-Going forward, I'm hoping to expand on my research experience in a few different ways, and these are a few questions I'm thinking about:
+Going forward, I'm hoping to expand on my research experience in a few different ways, and these are some questions I'm thinking about:
 
 - How do behaviors in LLMs, in particular reasoning and memorization, emerge from architectural choices?
 - Are there ways to leverage statistical regularities in the data or model internals to design better mechanisms, in particular attention and MoE routing?
