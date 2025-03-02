@@ -21,7 +21,7 @@ Going forward, I'm hoping to expand on my research experience in a few different
 - Are there ways to leverage statistical regularities in the data or model internals to design better mechanisms, in particular attention and MoE routing?
 - How do these statistical frameworks underpinning core mechanisms change when moving into multi-modal settings, and what opportunities are there to use them for better multi-modal models?
 - What are the statistical properties in pre and post-training that account for misalignment in LLMs?
-- How do harmful concepts and undesirable behavior (such as dishonesty and power-seeking) show up in model internals?
+- How do harmful concepts and undesirable behavior show up in model internals, and how might we use steering and related methods to guide chains of thought, particularly with the goal of improving their faithfulness?
 - How can we leverage existing capabilities in LLMs to self-improve and self-align?
 
 Prior to working with Professor Nguyen, I studied statistics at Columbia, where I was a funded research scholar working with Professor [Talia Gillis](https://www.law.columbia.edu/faculty/talia-gillis) on fair machine learning, and economics at Cambridge University and the London School of Economics.
