@@ -54,8 +54,8 @@ Prior to working with Professor Nguyen, I studied statistics at Columbia, where 
 *preprint, 2023*
 
 # Service
-- **Reviewer**, ICLR Main Conference, 2025
-- **Reviewer**, ICLR Workshop on Modularity for Collaborative, Decentralized, and Continual Deep Learning, 2025
+- **Reviewer**, ICLR Main Track 2025, NeurIPS Main Track 2025
+- **Reviewer**, ICLR Workshop on Modularity for Collaborative, Decentralized, and Continual Deep Learning 2025, ICML Workshop on Test-time Adaptation 2025
 
 
 # Other
