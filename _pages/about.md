@@ -50,7 +50,7 @@ Prior to working at Sakana AI, I spent two great years as a research resident wi
 # Some Publications
 
 [Learning to Orchestrate Agents in Natural Language with the Conductor](https://arxiv.org/abs/2512.04388) \
-Stefan Nielsen**, Edoardo Cetin, Peter Schwendeman, Qi Sun, Jinglue Xu, Yujin Tang \
+Stefan Nielsen, Edoardo Cetin, Peter Schwendeman, Qi Sun, Jinglue Xu, Yujin Tang \
 *International Conference on Learning Representations (ICLR), 2026*
 
 [Trinity: An Evolved LLM Coordinators](https://arxiv.org/abs/2512.04695) \
